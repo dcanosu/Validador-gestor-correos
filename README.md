@@ -37,12 +37,12 @@ Menú principal:
 - Utilizar ciclos y condicionales para buscar coincidencias dentro de la colección de correos registrados.
 - Mostrar todas las coincidencias encontradas.
 🔧 Aspectos técnicos obligatorios:
-✅ Uso correcto de tipos de datos (strings, booleanos, etc.).
-✅ Manejo de condicionales (if-elif-else).
-✅ Implementación de ciclos (for o while).
-✅ Uso de colecciones (listas o diccionarios).
-✅ Manipulación y búsqueda de strings.
-✅ Validación mediante expresiones regulares (regex).
+- ✅ Uso correcto de tipos de datos (strings, booleanos, etc.).
+- ✅ Manejo de condicionales (if-elif-else).
+- ✅ Implementación de ciclos (for o while).
+- ✅ Uso de colecciones (listas o diccionarios).
+- ✅ Manipulación y búsqueda de strings.
+- ✅ Validación mediante expresiones regulares (regex).
 
 📍 Consideraciones adicionales:
 La interfaz de consola debe ser amigable y clara.
