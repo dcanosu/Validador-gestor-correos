@@ -17,7 +17,6 @@ Menú principal:
 
 
 ## Registro de correos electrónicos:
-
 - Solicitar al usuario que ingrese una dirección de correo electrónico.
 - Validar la dirección usando una expresión regular sencilla.
 - Clasificar automáticamente el correo como 'estudiante' o 'docente', basándose en la estructura del correo:
@@ -27,16 +26,13 @@ Menú principal:
 
 
 ## Visualización de correos registrados:
-
 - Mostrar todos los correos registrados, indicando claramente si pertenecen a un estudiante o a un docente.
 
 
 ## Búsqueda de correos específicos:
-
 - Permitir que el usuario ingrese parte o la totalidad de un correo.
 - Utilizar ciclos y condicionales para buscar coincidencias dentro de la colección de correos registrados.
 - Mostrar todas las coincidencias encontradas.
-
 
 ## 🔧 Aspectos técnicos obligatorios:
 - ✅ Uso correcto de tipos de datos (strings, booleanos, etc.).
@@ -54,3 +50,8 @@ Documentar brevemente el código indicando claramente la función de cada secci�
 ## 📦 Entregable:
 Código fuente de la aplicación (.py).
 Una breve explicación (comentarios en el código) sobre cómo resolvieron los puntos solicitados.
+
+## Integrantes
+- Daniel Cano Suarez
+- Miguel Cerquera Arias
+- Esteban Eusse Munera
